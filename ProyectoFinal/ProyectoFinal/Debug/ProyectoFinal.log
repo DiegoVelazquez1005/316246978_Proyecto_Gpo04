@@ -1,15 +1,13 @@
-﻿  MainPrueba.cpp
-C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\modelAnim.h(519,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
-C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(411,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(787,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(788,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(792,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(793,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(795,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\MainPrueba.cpp(796,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+﻿  Main.cpp
+C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\Main.cpp(112,30): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\Main.cpp(215,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\Main.cpp(216,17): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\Main.cpp(220,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\Main.cpp(221,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\Main.cpp(223,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\ProyectoFinal\Main.cpp(224,13): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
 LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
-soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(etc1_utils.obj)' o en 'C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: no se encontró PDB '' con 'soil2-debug.lib(etc1_utils.obj)' o en ''; se vinculará el objeto sin tener en cuenta información de depuración
 soil2-debug.lib(image_DXT.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_DXT.obj)' o en 'C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
 soil2-debug.lib(image_helper.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(image_helper.obj)' o en 'C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
 soil2-debug.lib(SOIL2.obj) : warning LNK4099: no se encontró PDB 'soil2-debug.pdb' con 'soil2-debug.lib(SOIL2.obj)' o en 'C:\Users\velaz\Desktop\computoGraf\Repositorio\316246978_Proyecto_Gpo04\ProyectoFinal\Debug\soil2-debug.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
