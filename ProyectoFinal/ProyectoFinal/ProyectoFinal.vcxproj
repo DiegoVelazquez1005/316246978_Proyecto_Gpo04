@@ -151,13 +151,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="Shaders\lighting.frag" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Main.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="Model.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="iluminacion2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Shaders\lighting.frag" />
+    <None Include="Shaders\lighting.vs" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
