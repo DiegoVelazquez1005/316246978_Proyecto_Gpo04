@@ -5,24 +5,3 @@ Ka 0.00 0.00 0.00
 Tf 1.00 1.00 1.00
 map_Kd hoja.png
 Ni 1.00
-newmtl pasted__lambert12SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd maceta.png
-Ni 1.00
-newmtl pasted__palo_lambert13SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd palo.png
-Ni 1.00
-newmtl pasted__tierra_lambert11SG
-illum 4
-Kd 0.00 0.00 0.00
-Ka 0.00 0.00 0.00
-Tf 1.00 1.00 1.00
-map_Kd tierra.png
-Ni 1.00
