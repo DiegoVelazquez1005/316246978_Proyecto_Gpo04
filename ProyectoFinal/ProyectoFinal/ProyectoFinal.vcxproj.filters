@@ -20,11 +20,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="iluminacion2.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Shaders\lighting.frag">
       <Filter>Archivos de origen</Filter>
     </None>
@@ -43,5 +38,10 @@
     <None Include="Shaders\animCompleja.vs">
       <Filter>Archivos de origen</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="316246978_ProyectoFinal_GPO04.cpp">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
