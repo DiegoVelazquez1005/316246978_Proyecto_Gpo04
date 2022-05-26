@@ -86,7 +86,7 @@ typedef struct _frame {
 FRAME KeyFrame[MAX_FRAMES];
 int FrameIndex = 0;		
 bool play = false, cargaDeDatos = true;
-int playIndex = 0;
+//int playIndex = 0;
 
 //----------tiroParabolico----------
 /*
