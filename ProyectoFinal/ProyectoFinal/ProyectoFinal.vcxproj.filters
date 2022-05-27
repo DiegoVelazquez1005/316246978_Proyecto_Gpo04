@@ -40,7 +40,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="316246978_ProyectoFinal_GPO04.cpp">
+    <ClCompile Include="316246978_ProyectoTeoria_GPO04.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>

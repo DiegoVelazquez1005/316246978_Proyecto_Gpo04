@@ -162,7 +162,7 @@
     <None Include="Shaders\lighting.vs" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="316246978_ProyectoFinal_GPO04.cpp" />
+    <ClCompile Include="316246978_ProyectoTeoria_GPO04.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
